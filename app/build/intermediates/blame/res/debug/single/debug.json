@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy00.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy00.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy07.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy07.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boss2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\boss2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus3.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus3.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_about1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_about1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_start.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable\\button_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage05.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage05.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp22.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp22.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship4.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship4.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_start1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_start1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp14.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp14.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy01.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy01.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp15.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp15.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage04.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage04.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy08.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy08.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msg_again.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\msg_again.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boss1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\boss1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space0.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\space0.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_exp0.ogg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\exp0.ogg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp05.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp05.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_off.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_off.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_music.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_music.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_green.mp3.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\green.mp3"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus4.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus4.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship5.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship5.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp21.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp21.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy02.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy02.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp20.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp20.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy05.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy05.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_quit2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_quit2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus5.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus5.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_help2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_help2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp00.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp00.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp13.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp13.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship7.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship7.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_help1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_help1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_no1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_no1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\layout_options.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\layout\\options.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp23.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp23.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_about2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_about2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_exp1.ogg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\exp1.ogg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\layout_startgame.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\layout\\startgame.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp10.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp10.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy12.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy12.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_start2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_start2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_missile2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\missile2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msg_all.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\msg_all.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_options.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable\\button_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_fire.ogg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\fire.ogg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage02.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage02.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\space2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_miniship.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\miniship.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_help1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_help1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage01.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage01.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boss_missile.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\boss_missile.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp25.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp25.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_missile1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\missile1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_opts1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_opts1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp03.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp03.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space3.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\space3.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_exp2.ogg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\exp2.ogg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_easy.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_easy.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus0.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus0.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy03.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy03.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy11.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy11.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_missile0.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\missile0.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_yes.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_yes.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp24.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp24.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp11.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp11.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy10.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy10.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_no.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_no.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bonus1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\bonus1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_start.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_start.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_rondo.mp3.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\rondo.mp3"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_exp3.ogg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\exp3.ogg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp02.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp02.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_quit.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable\\button_quit.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_yes1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_yes1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy04.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy04.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_help.xml.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable\\button_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage03.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage03.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship6.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship6.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_on.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_on.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boss0.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\boss0.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp12.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp12.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space4.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\space4.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_space1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\space1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\raw_stage06.stg.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\raw\\stage06.stg"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_boss3.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\boss3.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msg_over.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\msg_over.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp01.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp01.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_bgopt.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_bgopt.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_quit1.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_quit1.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_diff.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_diff.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_about.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_about.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_opts2.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_opts2.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msg_clear.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\msg_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exp04.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\exp04.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship3.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship3.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy06.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy06.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_img_star.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\img_star.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gunship0.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\gunship0.png"
+    },
+    {
+        "merged": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enemy09.png.flat",
+        "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\drawable-hdpi\\enemy09.png"
+    }
+]

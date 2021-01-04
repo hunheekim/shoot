@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\SCIT\\AndroidStudioProjects\\Thread3\\StarWars\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "116,55",
+                        "endColumns": "45,60",
+                        "endOffsets": "157,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,60",
+                        "endOffsets": "96,157"
+                    }
+                }
+            ]
+        }
+    ]
+}
